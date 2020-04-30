@@ -1,0 +1,16 @@
+---
+Mandatory: True
+question: If you are making an informal complaint 
+subquestion: | 
+
+  Who are you making a complaint for? 
+
+fields: 
+  - "Please only tick one box": making_complaint 
+    datatype: checkboxes
+    choices: 
+      - Myself 
+      - On behalf of another
+      - Other 
+
+---
